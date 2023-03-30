@@ -56,6 +56,6 @@ LIMIT
 ASEC
 
 DESC
+![MYSQL-EER-1](https://user-images.githubusercontent.com/124794009/228857454-00304a4c-16eb-404d-a397-3bc1faeec4a9.jpg)
 
-[MYSQL-EER.docx](https://github.com/sowmyaece44/MYSQL/files/11112089/MYSQL-EER.docx)
 
