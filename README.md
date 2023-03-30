@@ -57,7 +57,7 @@ ASEC
 
 DESC
 
-EER Diagram:![MYSQL-EER-1](https://user-images.githubusercontent.com/124794009/228858966-9155868a-f154-4b33-ac57-f35d41940d96.jpg)
+EER Diagram:
 
 
 EER is the Enhanced Entity-Relationship (EER) diagrams are an essential part of the modeling interface in MySQL Workbench. EER diagrams provide a visual representation of the relationships among the tables in your model.
@@ -81,6 +81,9 @@ The primary key for the tables order_items and products is product_id INT.
 A foreign key (FK) is a column or combination of columns that is used to establish and enforce a link between the data in two tables to control the data that can be stored in the foreign key table.
 
 There is no foreign key between the tables in these SQL store databases.
+
+![MYSQL-EER-1](https://user-images.githubusercontent.com/124794009/228859291-18b3813f-a4b6-461a-857a-05506a4079f8.jpg)
+
 
 
 
