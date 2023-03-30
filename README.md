@@ -56,9 +56,9 @@ LIMIT
 ASEC
 
 DESC
-![MYSQL-EER-1](https://user-images.githubusercontent.com/124794009/228857454-00304a4c-16eb-404d-a397-3bc1faeec4a9.jpg)
 
-EER Diagram
+EER Diagram:![MYSQL-EER-1](https://user-images.githubusercontent.com/124794009/228858966-9155868a-f154-4b33-ac57-f35d41940d96.jpg)
+
 
 EER is the Enhanced Entity-Relationship (EER) diagrams are an essential part of the modeling interface in MySQL Workbench. EER diagrams provide a visual representation of the relationships among the tables in your model.
 
